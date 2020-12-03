@@ -1,4 +1,6 @@
-[
+
+{
+"posts": [
   {
     "Kalenderwoche": "2019/32",
     "Seife": "96,5",
@@ -535,4 +537,5 @@
     "Desinfektionsmittel": "151,3",
     "Hefe": "148,6"
   }
-]
+ ]
+}
