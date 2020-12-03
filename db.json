@@ -223,23 +223,7 @@
         "Mehl": "73,7",
         "Desinfektionsmittel": 172,
         "Hefe": "95,5"
-      },
-      {
-        "Kalenderwoche": "2020/29",
-        "Seife": "121,6",
-        "Toilettenpapier": "98,2",
-        "Mehl": "71,8",
-        "Desinfektionsmittel": "153,5",
-        "Hefe": "95,1"
-      },
-      {
-        "Kalenderwoche": "2020/30",
-        "Seife": "108,7",
-        "Toilettenpapier": "99,4",
-        "Mehl": "66,5",
-        "Desinfektionsmittel": "136,4",
-        "Hefe": "97,9"
-      },
+      }
   ],
   "comments": [
     {
