@@ -7,38 +7,6 @@
     "Mehl": "90,1",
     "Desinfektionsmittel": "101,1",
     "Hefe": "127,2"
-  },
-  {
-    "Kalenderwoche": "2020/02",
-    "Seife": "121,2",
-    "Toilettenpapier": 101,
-    "Mehl": "76,7",
-    "Desinfektionsmittel": "96,3",
-    "Hefe": "83,2"
-  },
-  {
-    "Kalenderwoche": "2020/03",
-    "Seife": "81,7",
-    "Toilettenpapier": "89,9",
-    "Mehl": "78,3",
-    "Desinfektionsmittel": "90,3",
-    "Hefe": "85,6"
-  },
-  {
-    "Kalenderwoche": "2020/04",
-    "Seife": "84,3",
-    "Toilettenpapier": "89,5",
-    "Mehl": "99,8",
-    "Desinfektionsmittel": "99,6",
-    "Hefe": 87
-  },
-  {
-    "Kalenderwoche": "2020/05",
-    "Seife": "122,5",
-    "Toilettenpapier": "104,7",
-    "Mehl": "87,3",
-    "Desinfektionsmittel": 190,
-    "Hefe": "94,3"
   }
   ],
 }
