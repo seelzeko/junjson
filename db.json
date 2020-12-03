@@ -1,12 +1,42 @@
 {
   "posts": [
   {
-    "Kalenderwoche": "2020/01",
-    "Seife": "88,6",
-    "Toilettenpapier": "116,1",
-    "Mehl": "90,1",
-    "Desinfektionsmittel": "101,1",
-    "Hefe": "127,2"
+
   }
   ],
+}
+
+{
+  "posts": [
+    {
+      "id": "2020/01",
+      "title": "Post 1",
+      "description": "this is description 1"
+    },
+    {
+      "id": "2020/02",
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": "2020/03",
+      "title": "Post 3",
+      "description": "this is description 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
 }
