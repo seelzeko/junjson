@@ -1,17 +1,17 @@
 {
   "posts": [
     {
-      "id": "2020/01",
+      "Kalenderwoche": "2020/01",
       "title": "Post 1",
       "description": "this is description 1"
     },
     {
-      "id": "2020/02",
+      "Kalenderwoche": "2020/02",
       "title": "Post 2",
       "description": "this is description 2"
     },
     {
-      "id": "2020/03",
+      "Kalenderwoche": "2020/03",
       "title": "Post 3",
       "description": "this is description 3"
     }
