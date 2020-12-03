@@ -2,18 +2,18 @@
   "posts": [
     {
       "Kalenderwoche": "2020/01",
-      "title": "Post 1",
-      "description": "this is description 1"
+      "Seife": "93,7",
+      "Toilettenpapier": "98,6"
     },
     {
       "Kalenderwoche": "2020/02",
-      "title": "Post 2",
-      "description": "this is description 2"
+      "Seife": "103,7",
+      "Toilettenpapier": "95,9"
     },
     {
       "Kalenderwoche": "2020/03",
-      "title": "Post 3",
-      "description": "this is description 3"
+      "Seife": "103,7",
+      "Toilettenpapier": "95,9"
     }
   ],
   "comments": [
