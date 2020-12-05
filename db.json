@@ -1,13 +1,1 @@
-{
-  "posts": 
-   [
-      {
-        "Kalenderwoche": "2020/01",
-        "Seife": "88,6",
-        "Toilettenpapier": "116,1",
-        "Mehl": "90,1",
-        "Desinfektionsmittel": "101,1",
-        "Hefe": "127,2"
-      },
-  ]
-}
+{"posts": [{ "id": 1, "name": "jun" }]}
