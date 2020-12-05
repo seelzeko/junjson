@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "itemsmmbbs": [
     { 
       "id": 1, 
       "name": "jun" 
@@ -8,6 +8,5 @@
       "id": 2, 
       "name": "ko" 
     }
-    
   ]
 }
